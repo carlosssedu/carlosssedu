@@ -1,6 +1,6 @@
-<h3 align="center">Um estudante de Ciência Da Computação da Pontifícia Universidade Católica do Paraná (PUCPR) </h3>
+<h3 align="center">Carlos: um estudante de Ciência Da Computação na Pontifícia Universidade Católica do Paraná (PUCPR) </h3>
 
-<h3 align="left">Meios de contato:</h3>
+<h3 align="left">Quer conversar:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/carlos-eduardo-aguiar-sacerdote-84088335a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos eduardo aguiar sacerdote" height="30" width="40" /></a>
 <a href="https://instagram.com/carlosss__edu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlosss__edu" height="30" width="40" /></a>
