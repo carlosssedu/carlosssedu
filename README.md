@@ -1,4 +1,4 @@
-<h3 align="center">Carlos: um estudante de Ciência Da Computação na Pontifícia Universidade Católica do Paraná (PUCPR) </h3>
+<h2 align="center">Carlos: um estudante de Ciência Da Computação na Pontifícia Universidade Católica do Paraná (PUCPR) </h2>
 
 <h3 align="left">Quer conversar:</h3>
 <p align="left">
