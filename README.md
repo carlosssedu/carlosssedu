@@ -1,21 +1,34 @@
-<h2 align="center">Carlos: Um Estudante de Ciência Da Computação da Pontifícia Universidade Católica do Paraná (PUCPR) </h2>
-
+<h2 align="center">Carlos: Um Estudante de Ciência Da Computação da Pontifícia Universidade Católica do Paraná (PUCPR)</h2>
 <h3 align="left">Quer conversar:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/carlos-eduardo-aguiar-sacerdote-84088335a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos eduardo aguiar sacerdote" height="30" width="40" /></a>
-<a href="https://instagram.com/carlosss__edu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlosss__edu" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/carlos-eduardo-aguiar-sacerdote-84088335a/" target="blank" style="display:inline-block; margin-right:8px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a><a href="https://instagram.com/carlosss__edu" target="blank" style="display:inline-block;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
-
 <h3 align="left">Linguagens que estou aprendendo:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<div style="text-align: center;" align="center">
-  <img src="https://github-readme-stats-six-eta-30.vercel.app/api?username=carlosssedu&show_icons=true&theme=radical" hspace="10" vspace="10">
-  
-  <img src="https://github-readme-stats-six-eta-30.vercel.app/api/top-langs/?username=carlosssedu&size_weight=0.5&count_weight=0.5&theme=radical" hspace="10" vspace="10">
-  
-</div>
-<picture align="center">
+<p align="left">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a><a href="https://www.php.net" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a><a href="https://www.python.org" target="_blank" rel="noreferrer" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-statsss-eight.vercel.app/api?username=carlosssedu&show_icons=true&theme=radical" height="165" />
+  &nbsp;
+  <img src="https://github-readme-statsss-eight.vercel.app/api/top-langs/?username=carlosssedu&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact" height="165" />
+</p>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlosssedu/carlosssedu/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlosssedu/carlosssedu/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/carlosssedu/carlosssedu/output/github-contribution-grid-snake.svg">
