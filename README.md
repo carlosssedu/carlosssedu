@@ -1,28 +1,29 @@
 <h2 align="center">Carlos: Um Estudante de Ciência Da Computação da Pontifícia Universidade Católica do Paraná (PUCPR)</h2>
 <h3 align="left">Quer conversar:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/carlos-eduardo-aguiar-sacerdote-84088335a/" target="blank" style="display:inline-block; margin-right:8px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a><a href="https://instagram.com/carlosss__edu" target="blank" style="display:inline-block;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/carlos-eduardo-aguiar-sacerdote-84088335a/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</p>
+  <br>
+  <a href="https://www.instagram.com/carlosss__edu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 <h3 align="left">Linguagens que estou aprendendo:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a><a href="https://www.php.net" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a><a href="https://www.python.org" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+</div>
+<br>
 <p align="center">
   <img src="https://github-readme-statsss-eight.vercel.app/api?username=carlosssedu&show_icons=true&theme=radical" height="165" />
   &nbsp;
