@@ -1,4 +1,4 @@
-<h2 align="center">Carlos: Um Estudante de Ciência Da Compututção (3° período) da PUCPR </h2>
+<h2 align="center">Carlos: Um Estudante de Ciência Da Compututção 3° período da PUCPR </h2>
 <h3 align="left">Quer conversar:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/carlos-eduardo-aguiar-sacerdote-84088335a/" target="_blank">
