@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carlosssedu&show_icons=true&theme=dark#gh-dark-mode-only"  />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=dark#gh-dark-mode-only" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=dark#gh-dark-mode-only"/>
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlosssedu/carlosssedu/output/github-contribution-grid-snake-dark.svg">
