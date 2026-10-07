@@ -25,10 +25,11 @@
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
 </div>
 <br>
+
 <p align="center">
-  <img src="https://github-readme-statsss-eight.vercel.app/api?username=carlosssedu&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosssedu&show_icons=true&theme=dark#gh-dark-mode-only"  />
   &nbsp;
-  <img src="https://github-readme-statsss-eight.vercel.app/api/top-langs/?username=carlosssedu&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=dark#gh-dark-mode-only" height="300" />
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlosssedu/carlosssedu/output/github-contribution-grid-snake-dark.svg">
